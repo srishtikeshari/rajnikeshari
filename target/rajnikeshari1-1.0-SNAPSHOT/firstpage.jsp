@@ -9,9 +9,7 @@
 <html>
     <head>
         <style type="text/css">
-            html{
-                scroll-behavior: smooth;
-            }
+            
             body{
                 background-image: url("background1.jpg");
                 background-repeat: no-repeat;
