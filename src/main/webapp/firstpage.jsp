@@ -13,7 +13,7 @@
                 scroll-behavior: smooth;
             }
             body{
-                background-image: url("background.jpeg");
+                background-image: url("background1.jpg");
                 background-repeat: no-repeat;
                 background-size: cover; 
                 background-attachment: fixed;
@@ -113,7 +113,7 @@
         </nav>
         <div style="margin-left: 4%;margin-right: 4%;" class="intro container-fluid">
             <span><img class="introphoto" src="rajnikeshari.jpg">
-                <div class="introtext"><p class="hello">Hello Friends,</p><p>My name is Rajni Keshari. I have a great interest in art and painting. I pursue painting as a hobby and have made some of the pieces which are displayed on the website. Do have a look at them.</p></div></span>
+                <div class="introtext"><p class="hello">Hey there,</p><p>My name is Rajni Keshari. I have a great interest in art and painting. I pursue painting as a hobby and have made some of the pieces which are displayed on the website. Do have a look at them.</p></div></span>
         </div>
         <div style="margin-left: 12%;margin-right: 12%;margin-top:8%" id="watercolors" class=" elements container-fluid">
             <h1 style="font-size:32px;text-shadow:3px 3px grey"><center>Water Colors</center></h1>
